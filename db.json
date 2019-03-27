@@ -1,0 +1,80 @@
+{
+  "35%20094%20133%20641": {
+    "name": "ACADEMY OF INFORMATION TECHNOLOGY PTY LTD",
+    "type": "Australian Private Company",
+    "abn": "35 094 133 641",
+    "acn": "000 000 073",
+    "businessLocation": {
+      "registeredOffice": "Level 2, 7 Kelly Street, Sydney",
+      "principalPlaceOfBusiness": "3000, 1-15 George, MELBOURNE"
+    },
+    "registrationDate": "1999-10-11",
+    "registeredForGST": true,
+    "companyDirectors": [
+      {
+        "name": "Peter Cameron",
+        "appointmentDate": "2000-01-01"
+      },
+      {
+        "name": "James Cameron",
+        "appointmentDate": "2000-01-01"
+      }
+    ]
+  },
+  "59%20872%20382%20014": {
+    "name": "BLANKENSHIP, GARRET GENE",
+    "type": "Sole Trader",
+    "abn": "59 872 382 014",
+    "acn": "000 000 074",
+    "businessLocation": {
+      "registeredOffice": "2020, 1-15 Elizabeth Street, Sydney",
+      "principalPlaceOfBusiness": "3000, 1-20 PITT STREET, WATERLOO"
+    },
+    "registrationDate": "2014-12-27",
+    "registeredForGST": true,
+    "companyDirectors": [
+      {
+        "name": "Garret Gene Blakenship",
+        "appointmentDate": "2002-12-27"
+      }
+    ]
+  },
+  "3": {
+    "name": "Third Test Company",
+    "type": "Australian Public Company",
+    "abn": "12 000 000 075",
+    "acn": "000 000 075",
+    "businessLocation": {
+      "registeredOffice": "2021, 11 KING STREET, NORTH SYDNEY",
+      "principalPlaceOfBusiness": "3000, 1-15 BOURKE STREET, MELBOURNE"
+    },
+    "registrationDate": "1985-12-27",
+    "registeredForGST": true,
+    "companyDirectors": [
+      {
+        "name": "GARRET",
+        "appointmentDate": "1994-05-05"
+      }
+    ]
+  },
+  "person": [
+    {
+      "id": "123456789",
+      "name": "Alan Watts",
+      "driversLicence": "12345678",
+      "passport": "123456789"
+    },
+    {
+      "id": "23456789A",
+      "name": "Nandini",
+      "driversLicence": "12345678",
+      "passport": "23456789A"
+    },
+    {
+      "id": "3",
+      "name": "Garret",
+      "driversLicence": "12345678",
+      "passport": "3456789AB"
+    }
+  ]
+}
