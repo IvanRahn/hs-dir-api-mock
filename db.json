@@ -1,7 +1,4 @@
 {
-    "count": 100,
-    "next": "https://www.healthshare.com.au/api/professionals/v1/search/location/?locality=271&page=2&specialty=39",
-    "previous": null,
     "results": [
         {
             "id": 11833,
